@@ -1,0 +1,37 @@
+/*Texto*/
+
+#p1 {
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   /* Fonte */
+    text-align: center;   /* Alinhamento */
+}
+
+
+/* Imagem */
+#logo-github {
+
+    width: 300px;  /* Largura */
+    height: 300px; /* Altura  */
+
+}
+/* Div e distribjição na pagina*/
+div {
+    height: 200px;
+    display: inline-block;
+}
+
+.container-a {
+
+    /* background-color: blue;*/ /* Cor de fundo da nossa div */
+    width: 200px;
+
+}
+
+.container-b {
+
+    padding-left: 100px;
+    /* background-color: rgb(255, 0, 0); */ /* Cor de fundo da nossa div */
+    width: 200px;
+
+}
